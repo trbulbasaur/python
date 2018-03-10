@@ -2,7 +2,7 @@ HW-1.py İki tane dizi actim. İlk dizide sayilari karistirarak sayilari diziye 
 
 HW-1,2.py (2'nci yöntem) 'sayi' ve 'toplam' adinda iki degisken tanimladim. Daha sonra 'a' dizisi tanimlayip 100'e kadar olan sayilari ekledim. Daha sonra bu sayilari 'shuffle' ile karistirdim. Bir dongu olustutup bu sayilari toplattim. Karisan sayilarda fazladan bir sayi oldugu icin bu toplamdan fazla cikti. Cikan sayiyi toplamdan cikararak duplicate sayiyi buldum.
 
-HW-2.py Kullanıcıya kelime, baslangic sayisi ve sonlandirma sayisi girdiriyoruz. Daha sonra ':a' ve 'b:' kodlarıyla girilen baslangıç sayısından önceki harfleri ve girilen sonlandirma sayısından sonraki değerleri ekrana yazdırdım.
+HW-2.py Kullaniciya kelime, baslangic sayisi ve sonlandirma sayisi girdiriyoruz. Daha sonra ':a' ve 'b:' kodlarıyla girilen baslangic sayisindan onceki harfleri ve girilen sonlandirma sayisindan sonraki degerleri ekrana yazdirdim. 'if' kisimlarinda ise girilen baglangic ve sonlandirma sayilarinin gerekli kurallar icerisinde girilmesini sagladim. Bu kurallar girilen sayinin girilen kelimenin uzunlugundna buyuk olmamasi ve sifir girilememesidir. 'a = a-1' kisminda ise dizilerin ilk degeri sifira atandigi icin bunu engellemis oldum.
 
 HW-3.py Kullanıcıya bir kelime girdiyoruz. Girdilen kelimeyi 'lowercase' işlemine geçti. Çünkü ASCII çetelesinde buyuk harf ve kucuk harf farkı oldugundan büyük küçük duplicate harfleri çıkarmıyordu. Daha sonra girilen degeri degiskene atadım. Daha sonra yine 'enumerate' kullanarak dizideki elemanlara sayi atadim. En son da bu degerleri join ederek yazdirdim.
 
