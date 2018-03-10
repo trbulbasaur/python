@@ -1,6 +1,6 @@
-HW-1.py 'sayi' ve 'toplam' adında iki degişken atadım. Daha sonra 'a' dizisi atayıp 100'e kadar olan sayilari ekledim. Daha sonra bu sayilari 'shuffle' ile karıştırdım. Bir döngü olusturup bu sayilari toplattım. Karışan sayılarda fazladan bir sayi oldugu icin bu toplamdan fazla çıktı. Çıkan sayıyı toplamdan cikararak "Duplicate" sayıyı buldum.
+HW-1.py İki tane dizi actim. İlk dizide sayilari karistirarak sayilari diziye ekledim. Ikinci diziye de bu sayilarin olup olmadigini kontrol ediyorum. Birinci dizide olan sayilarin yeri ikinci sayida da dolduruluyor. Hepsi doldurulunca geriye bir tane fazla sayi kaliyor. Bu fazla sayi duplicate olmus oluyor.
 
-HW-1,2.py (2'nci yöntem) Çoğu kısmı 1.yöntem ile tek farkı son kısımda 'enumerate' komudunu çalıştırmamız. Bu kod ile birlikte arr dizisindeki elemanlara bir değer tanımlıyoruz. Daha sonra dizide bulunan her eleman için değer atınca bir eleman fazla çıkıyor. Bu fazla çıkan eleman "duplicate" olan sayi olmus oluyor.
+HW-1,2.py (2'nci yöntem) 'sayi' ve 'toplam' adinda iki degisken tanimladim. Daha sonra 'a' dizisi tanimlayip 100'e kadar olan sayilari ekledim. Daha sonra bu sayilari 'shuffle' ile karistirdim. Bir dongu olustutup bu sayilari toplattim. Karisan sayilarda fazladan bir sayi oldugu icin bu toplamdan fazla cikti. Cikan sayiyi toplamdan cikararak duplicate sayiyi buldum.
 
 HW-2.py Kullanıcıya kelime, baslangic sayisi ve sonlandirma sayisi girdiriyoruz. Daha sonra ':a' ve 'b:' kodlarıyla girilen baslangıç sayısından önceki harfleri ve girilen sonlandirma sayısından sonraki değerleri ekrana yazdırdım.
 
