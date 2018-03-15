@@ -14,3 +14,4 @@ for c in s:
         tmp[i]=c
         i = i+1
 print(tmp)
+
