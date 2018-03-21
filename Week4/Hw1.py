@@ -14,8 +14,7 @@ class Calculator:
     def peek(self):
         return self.items[0]
 
-    def size(self):
-        return len(self.items)
+ 
 
     def infix2Postfix(self,infix):
         prec = {}
